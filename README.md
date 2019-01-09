@@ -3,7 +3,7 @@
 ### Установка
   Склонируйте или загрузите репозиторий
   ```Shell
-  $ git clone https://github.com/blazecolour/simple-test-react-app.git
+  $ git clone https://github.com/blazecolour/react-tabs-test.git
   ```
   Установите зависимости командой
   ```shell
